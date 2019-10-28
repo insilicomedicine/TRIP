@@ -1,0 +1,4 @@
+pytorch==1.0.1
+pandas==0.24.2
+numpy==1.16.4
+scikit-learn==0.20.3

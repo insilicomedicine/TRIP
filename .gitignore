@@ -1,0 +1,6 @@
+data/*
+saved_hists
+saved_models
+experiments
+*.ipynb
+.idea
